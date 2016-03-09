@@ -3,7 +3,7 @@ import { register } from 'commando';
 register({
   name: 'Repeat',
 
-  component: 'commando-repeat/Repeat',
+  component: 'commando-repeat/lib/Repeat',
 
   example: 'Repeat something',
 
